@@ -9,7 +9,7 @@ DB_USER=[mysql_db_user]
 DB_NAME=[wp_database_name]
 DATEKEY=`date +%Y%m%d_%H%M%S`
 DRIVE_BACKUPS_BASE_PATH=[your_google_drive_path_to_backups]
-DRIVE_APP=/home/pierodetomi/go/bin/drive
+DRIVE_APP=[path_to_drive_executable]
 
 # -----------------------------------------------------------
 # Create directory for backup data
